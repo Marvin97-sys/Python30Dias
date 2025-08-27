@@ -23,3 +23,22 @@ print(f"\nTabla de multiplicar del {num}:\n")
 for i in range(1, 11):
     resultado = num * i
     print(f"{num} x {i} = {resultado}")
+
+
+
+# Bucle while
+
+# Día 7: Mostrar la tabla de multiplicar de un número dado usando while
+
+num = int(input("Ingresa un número: "))
+
+print(f"\nTabla de multiplicar del {num}:\n")
+
+i = 1
+while i <= 10:
+    resultado = num * i
+    print(f"{num} x {i} = {resultado}")
+    i += 1   # importante incrementar para evitar bucle infinito
+
+#Con for recorres un rango definido directamente.
+# Con while tienes que controlar tú mismo la variable (i) y su incremento, o el programa se queda en un bucle infinito.

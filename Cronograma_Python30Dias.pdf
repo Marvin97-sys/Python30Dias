@@ -510,3 +510,64 @@ trailer
 startxref
 17498
 %%EOF
+10 0 obj
+[ 11 0 R 12 0 R 21 0 R 22 0 R 30 0 R 31 0 R 40 0 R 41 0 R 49 0 R 50 0 R 59 0 R 60 0 R 69 0 R 70 0 R 79 0 R 80 0 R 89 0 R 90 0 R]
+endobj
+89 0 obj
+<</Type/Annot/Subtype/Highlight/P 5 0 R/F 4/M(D:20250827171140-06'00')/NM(02a9a53c-f89c-4f63-bf57-aa3f42083117)/Rect[ 163.765 523 244.345 534.5]/C[ 1 .941176 .4]/Popup 90 0 R/CA 1/CreationDate(D:20250827171140-06'00')/QuadPoints[ 163.765 534.5 244.345 534.5 163.765 523 244.345 523]/AP<</N 97 0 R>>>>
+endobj
+90 0 obj
+<</Type/Annot/Subtype/Popup/Open false/F 28/Rect[ 612 414.5 792 534.5]/Parent 89 0 R>>
+endobj
+95 0 obj
+<</Length 87/Type/XObject/Subtype/Form/FormType 1/BBox[ 163.765 523 244.345 534.5]/Matrix[ 1 0 0 1 -163.765 -523]/Resources<</ProcSet[/PDF]>>>>
+stream
+1 .941176 .4 rg
+.71875 w
+163.765 523 m
+163.765 534.5 l
+244.345 534.5 l
+244.345 523 l
+f
+
+endstream
+endobj
+96 0 obj
+<</Length 9/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 80.58 11.5]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</Form 95 0 R>>>>/Group<</S/Transparency>>>>
+stream
+/Form Do
+
+endstream
+endobj
+97 0 obj
+<</Length 20/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 80.58 11.5]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</MWFOForm 96 0 R>>/ExtGState<</R0 98 0 R>>>>>>
+stream
+/R0 gs
+/MWFOForm Do
+
+endstream
+endobj
+98 0 obj
+<</Type/ExtGState/AIS false/BM/Multiply>>
+endobj
+7 0 obj
+<</Author((anonymous))/CreationDate(D:20250819220707+00'00')/Creator((unspecified))/Keywords()/ModDate(D:20250827171143-06'00')/Producer(ReportLab PDF Library - www.reportlab.com)/Subject((unspecified))/Title((anonymous))/Trapped/False>>
+endobj
+xref
+7 1
+0000019165 00000 n
+10 1
+0000017831 00000 n
+89 2
+0000017976 00000 n
+0000018293 00000 n
+95 4
+0000018396 00000 n
+0000018662 00000 n
+0000018877 00000 n
+0000019107 00000 n
+trailer
+<</ID[<D487284B0DB7BDEA2E40930A0C21643F><A46A6648847500C7C9302EBA22E80836>]/Info 7 0 R/Root 6 0 R/Size 99/Prev 17498>>
+startxref
+19418
+%%EOF
